@@ -22,14 +22,14 @@ const TemplateWrapper = ({ children }) => {
         />
         <link
           rel="icon"
-          type="image/png"
-          href={`${withPrefix('/')}img/favicon-32x32.png`}
+          type="image/x-ico"
+          href={`${withPrefix('/')}img/favicon.ico`}
           sizes="32x32"
         />
         <link
           rel="icon"
-          type="image/png"
-          href={`${withPrefix('/')}img/favicon-16x16.png`}
+          type="image/x-icon"
+          href={`${withPrefix('/')}img/favicon.ico`}
           sizes="16x16"
         />
 
